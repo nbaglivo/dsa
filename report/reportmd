@@ -1,8 +1,0 @@
-# Resumen DSA
-
-
-## Grupo 2017 - 12 *mi app*
-
-En la documentación se lee que el endpoint acepta un parámetro **fields** para filtrar las propiedades del usuario que querramos obtener, podemos abusar de esto para obtener los password de los usuarios.
-
-
