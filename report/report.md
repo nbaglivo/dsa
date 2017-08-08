@@ -21,3 +21,4 @@ Finalmente si le pegamos al endpoint /auth/current podemos obtener la informaci√
 ![g12_flag](https://github.com/nbaglivo/dsa/blob/master/report/imgs/g12_login.png "G12 Flag")
 
 
+![](imgs/g12_login.png)
